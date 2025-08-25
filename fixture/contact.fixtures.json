@@ -1,0 +1,18 @@
+{
+    "contact":{
+        "firstname":"abhigya",
+        "lastname":"basnet",     
+        "email":"wassup.abhigya27@gmail.com",
+        "phone":"9841234567",
+        "address":"Kathmandu, Nepal",
+        "city":"Kathmandu",
+        "state":"Bagmati",
+        "country":"Nepal",
+        "postal":"44600",
+        "date_of_birth:":"1995-05-15"
+
+    },
+    "contactEdit":{
+        "firstname":"hello"
+}
+}
